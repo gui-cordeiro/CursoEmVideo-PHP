@@ -1,12 +1,7 @@
 # Bibliografia Recomendada para o Curso de PHP
-Abaixo encontra-se a bibliografia recomendada pelo Curso de PHP para eventuais consultas. É possível verificar o(a):
-* Nome da bibliografia (com link externo para eventual compra/consulta);
-* Número da edição;
-* Autor(a) da bibliografia;
-* Editora que publicou a bibliografia; e
-* Existência de tradução em português brasileiro (PT-BR).
+Abaixo encontra-se a bibliografia recomendada pelo Curso de PHP para eventuais consultas:
 
-**OBS.:** Bibliografias marcadas com asterisco (*) **NÃO ABORDAM** as novidades do PHP 8.
+* **OBS.:** Bibliografias marcadas com asterisco (*) **NÃO ABORDAM** as novidades do PHP 8.
 
 |Nome da Bibliografia|Edição|Autor(a)|Editora|Tradução em PT-BR|
 |---|---|---|---|---|
